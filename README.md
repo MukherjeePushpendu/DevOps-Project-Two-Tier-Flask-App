@@ -307,4 +307,5 @@ The CI/CD pipeline is now fully operational. Any `git push` to the `main` branch
 
 
 ### **10. Work flow Diagram**
-<img src="diagrams/project_workflow.png">
+<img src="diagrams/project_workflow.png">#   D e v O p s - P r o j e c t - T w o - T i e r - F l a s k - A p p  
+ 
